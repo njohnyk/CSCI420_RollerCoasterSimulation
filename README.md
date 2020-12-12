@@ -23,7 +23,7 @@ make
 #### For more details regarding the implementation and extra credits, look into hw2/readme.doc
 
 ## Demo
-[Youtube](https://youtu.be/Z0fKamqaH3w)
+[Youtube](https://youtu.be/nk5zxa2IZSI)
 
 ### Tested on
 #### MacOS Mojave
